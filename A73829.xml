@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new ditty, shewing the wonderfull miracles of our Lord and Sauiour Iesus Christ [sic], which he did while he remained vpon earth To the tune of Triumph and Ioy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73829</idno>
+            <idno type="STC">STC 6922.7</idno>
+            <idno type="STC">ESTC S124515</idno>
+            <idno type="EEBO-CITATION">99899149</idno>
+            <idno type="PROQUEST">99899149</idno>
+            <idno type="VID">150580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150580)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1955:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new ditty, shewing the wonderfull miracles of our Lord and Sauiour Iesus Christ [sic], which he did while he remained vpon earth To the tune of Triumph and Ioy.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>for H. G[osson],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1625?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "VVhen Iesus Christ was twlue yéeres".</note>
+                  <note>Publisher's name and publication date from STC.</note>
+                  <note>Printed in two columns.</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Miracles --  Poetry --  Early works to 1800.</term>
+               <term>Jesus Christ --  Person and offices --  Poetry --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150580:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>A new Ditty, ſhewing the wonderfull Miracles of our Lord and Sauiour Ieſus Chriſt, which he did while he remained vpon earth.</head>
+            <opener>To the tune of Triumph and Ioy.</opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of Last Supper</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>VVHen Ieſus Chriſt was twlue yéeres old,</l>
+               <l>as holy Scriptures plainly told,</l>
+               <l>He then diſputed braue and bold</l>
+               <l>among the learned Doctors;</l>
+               <l>Who wondred greatly at his wit,</l>
+               <l>As in the Temple he did ſit:</l>
+               <l>For no man could compare with it,</l>
+               <l>his wiſdome was ſo heauenly.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then praiſe the Lord both high and low,</hi>
+                  </l>
+                  <l>
+                     <hi>Which all theſe wondrous works doth ſhow,</hi>
+                  </l>
+                  <l>
+                     <hi>That we to heauen at length may goe,</hi>
+                  </l>
+                  <l>
+                     <hi>where he in glory raigneth.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>At thirty yéeres he then began</l>
+               <l>To rreach the Goſpell vnto man,</l>
+               <l>And all <hi>Iudea</hi> wondred than,</l>
+               <l>to heare his heauenly Doctrine:</l>
+               <l>Such workes he did as made them muſe,</l>
+               <l>Among the proud hard-hearted Iewes,</l>
+               <l>Yet euermore they did refuſe</l>
+               <l>to take him for their Sauiour.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then praiſe, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>For firſt of all by power diuine,</l>
+               <l>He changed water into wine,</l>
+               <l>When at a marriage he did dine,</l>
+               <l>which made the people wonder:</l>
+               <l>Moreouer with ſeuen loaues of bread,</l>
+               <l>Seuen thouſand men he fully, fed,</l>
+               <l>Whereby his glory far was ſpred,</l>
+               <l>throughout the Land of <hi>Iury.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then praiſe, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And by his glorious power and might,</l>
+               <l>Vnto the blind he gaue their ſight,</l>
+               <l>For which the Iewes bore him a ſpight,</l>
+               <l>who ſought for to deſtroy him.</l>
+               <l>The man which was both deafe and dumb,</l>
+               <l>Which neuer heard nor ſpake with tongue,</l>
+               <l>By Chriſt was healed when he did come:</l>
+               <l>whoſe praiſe he then pronounced.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then praiſe, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The woman that was grieued ſore,</l>
+               <l>With an iſſue of blood twine yéeres &amp; more,</l>
+               <l>Vnto her health he did reſtore,</l>
+               <l>in a minute of an houre:</l>
+               <l>The Captaines man that ſicke did lie,</l>
+               <l>Our Sauiour healed preſently,</l>
+               <l>Although he neuer came him nye,</l>
+               <l>his words alone did helpe him,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then praiſe, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Likewiſe he healed the Lepers ten,</l>
+               <l>Whoſe Bodies were moſt filthy then,</l>
+               <l>Yet none but one did come agen,</l>
+               <l>him humble thankes to render:</l>
+               <l>And he that ſicke of the Palſie lay,</l>
+               <l>With ſhaking ioynts full many a day,</l>
+               <l>The Lord to heale him did not ſtay,</l>
+               <l>but ſtraight his will fulfilled.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then praiſe, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The halt and lame that could not goe,</l>
+               <l>But ſtill remained in great woe,</l>
+               <l>Our Sauiour Chriſt did pitty ſhow,</l>
+               <l>and make them whole and luſty:</l>
+               <l>The man that was with Deuils poſſeſt,</l>
+               <l>And neuer liued in peace and reſt,</l>
+               <l>By Chriſt his Word at length was bleſt,</l>
+               <l>and they were cleane caſt from him.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then praiſe, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The widdowes ſonne that dead did lye,</l>
+               <l>When Chriſt our Sauiour came not nye,</l>
+               <l>He rayſed to life immediately,</l>
+               <l>vnto her ioy and comfort.</l>
+               <l>Then <hi>Mary</hi> and <hi>Martha</hi> made great moane,</l>
+               <l>Becauſe their Brother was dead and gone,</l>
+               <l>Our Lord put life in him alone,</l>
+               <l>and he from graue came running,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then praiſe, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And more his heauenly might to ſhow,</l>
+               <l>Vpon the Sea himſelfe did goe,</l>
+               <l>And neuer none could yet doe ſo,</l>
+               <l>but onely Chriſt our Sauiour.</l>
+               <l>And when the Souldiers with great might</l>
+               <l>Did ſéeke to take him in the night,</l>
+               <l>They were not able to ſtand in his ſight,</l>
+               <l>till he the ſame permitted,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then praiſe, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But yet for all theſe wonders great,</l>
+               <l>The Iewes were in a raging heat,</l>
+               <l>Whom no perſawſion could intreat,</l>
+               <l>but cruelly they did kill him:</l>
+               <l>And when he left his life ſo good,</l>
+               <l>The Moone was turned into blood,</l>
+               <l>The Earth and Temple ſhaking ſtood,</l>
+               <l>and graues full wide did open.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then praiſe, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then ſome of them that ſtood thereby,</l>
+               <l>With voices loud began to cry,</l>
+               <l>This was the Sonne of God truely,</l>
+               <l>without all kind of doubting:</l>
+               <l>And as they ſaid, it proued plaine:</l>
+               <l>For in thrée dayes he roſe, againe,</l>
+               <l>Although hée ſuffered, bitter pain.</l>
+               <l>both heauen and hell h<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>conquerd.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then praiſe, &amp;.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And after that aſcended he,</l>
+               <l>To heauen in glorious Maieſty,</l>
+               <l>With whom God ſend vs all to be,</l>
+               <l>for euermore reioycing.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then praiſe, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for H. G.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
